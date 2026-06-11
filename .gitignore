@@ -1,0 +1,35 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+*.build_log.htm
+*.axf
+*.bin
+*.hex
+*.elf
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.lnp
+*.sct
+*.dep
+
+# Keil local user settings
+*.uvguix.*
+*.uvgui.*
+*.uvgui_*
+
+# Office temporary / local report files
+~$*
+*.docx
+
+# Local notes and generated caches
+问题*.txt
+__pycache__/
+*.pyc
+
+# OS metadata
+.DS_Store
+Thumbs.db

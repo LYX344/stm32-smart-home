@@ -1,8 +1,10 @@
 # STM32 智能家居控制系统
 
+![C](https://img.shields.io/badge/C-STM32F10x-A8B9CC?logo=c&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+
 基于 STM32F103C8T6 的智能家居控制演示项目，使用 Keil uVision5 和 STM32F10x 标准外设库开发。系统集成 OLED 菜单界面、按键交互、LED/RGB 控制、DHT11 温湿度采集、继电器控制、直流电机 PWM 调速和时间显示页面。
 
-本项目源于学校组织的 7 天嵌入式实训，在智能家居实训板基础上完成外设驱动调试、功能整合和演示验证。这个项目用于展示 STM32 外设驱动、模块化代码组织和多功能嵌入式系统集成能力。
+在智能家居实训板基础上完成外设驱动调试、功能整合和验证，核心涉及 STM32 外设驱动、模块化代码组织和多功能系统集成。
 
 ## 功能
 
